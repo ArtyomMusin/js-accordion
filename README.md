@@ -1,5 +1,4 @@
 # Accordion
-____
 
 Type: personal practice
 
