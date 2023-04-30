@@ -1,7 +1,7 @@
 # Accordion
 ____
 
-Type: personal practice</br>
+Type: personal practice
 
 ![accordionScreen](./public/screen1.jpg)
 
